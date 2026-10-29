@@ -1,0 +1,10 @@
+substance,echa_infocard_id,expected_h_codes
+"1,1,1-trichloroethane",100.000.688,H332|H420
+Acetone,100.000.602,H225|H319|H336
+Clozapine,100.024.831,H301|H341|H361
+Colecalciferol,100.000.612,H300|H310|H330|H372
+Ethanol,100.000.526,H225
+Methanol,100.000.599,H225|H301|H311|H331|H370
+Nicotine,100.000.177,H300|H310|H330|H411
+O-acetylsalicylic acid,100.000.059,H302|H412
+Paracetamol,100.002.870,H302

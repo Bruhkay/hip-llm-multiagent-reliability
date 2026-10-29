@@ -1,0 +1,16 @@
+# Core
+openai>=1.40
+google-genai>=0.3
+langgraph>=0.2
+requests
+websockets
+pillow
+numpy
+pandas
+matplotlib
+zstandard
+# Reliability analysis
+pyagrum>=1.14
+hip-llm @ git+https://github.com/koo-ec/HIP_LLM.git
+# PixelRAG (pinned commit used in the experiments)
+# git clone https://github.com/StarTrail-org/PixelRAG.git && cd PixelRAG && git checkout 7a3c3041bd37b1868d8573039ebdc60607ddb936
