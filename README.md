@@ -39,7 +39,7 @@ The operational profile used for HIP-LLM is `{"single": 0.2, "multi": 0.8}`. The
 Python ≥ 3.10.
 
 ```bash
-git clone https://github.com/<user>/hip-llm-multiagent-reliability.git
+git clone https://github.com/Bruhkay/hip-llm-multiagent-reliability.git
 cd hip-llm-multiagent-reliability
 pip install -r requirements.txt
 
